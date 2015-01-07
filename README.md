@@ -1,8 +1,3 @@
-Name: Elisha Lee
-uni: esl2131
-Assignment: 1
-
-
 Assignment URL: http://www.cs.columbia.edu/~cs4705/hw2/hw2_2014.pdf
 
 #PART 1: HOW TO RUN CODE
